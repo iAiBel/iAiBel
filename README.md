@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Isabel!
 
 🎓Biomedical Scientist leveraging expertise in statistics and data analysis to build solutions in Data Science and Artificial Intelligence. Experienced in Python, R, SQL, and cloud-based data processing.  
-💡 Passionate about turning data into insights and solutions, especially by connecting technology with healthcare.
+💡 Turning data into actionable insights and smart solutions using Python, R, and cloud technologies..
 
 ---
 ## 🛠️ Tech Stack & Skills
