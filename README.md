@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Isabel!
 
-🎓 I'm a Biomedical Scientist with a postgraduate degree in Immunology & Microbiology, currently transitioning into **Data Science and Artificial Intelligence**.  
+🎓Biomedical Scientist leveraging expertise in statistics and data analysis to build solutions in Data Science and Artificial Intelligence. Experienced in Python, R, SQL, and cloud-based data processing.  
 💡 Passionate about turning data into insights and solutions, especially by connecting technology with healthcare.
 
 ---
