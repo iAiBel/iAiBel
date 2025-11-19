@@ -6,13 +6,14 @@
 ---
 ## 🛠️ Tech Stack & Skills
 
-| Tool/Language | Skills |
-|---------------|--------|
-| **Python**    | Data cleaning, exploratory analysis with `pandas`, basic modeling |
-| **R**         | Matrix operations, basic statistical analysis |
-| **MySQL**     | Conceptual & logical modeling, key creation |
-| **Git/Git LFS** | Version control and large file management |
-| **Excel / Office Suite** | Data analysis and reporting |
+| Tool / Language      | Skills & Expertise |
+|----------------------|------------------|
+| **Python**           | Data cleaning, exploratory data analysis (`pandas`, `numpy`), data visualization (`matplotlib`, `seaborn`), basic machine learning models (`scikit-learn`) |
+| **R**                | Statistical analysis, matrix operations, data visualization, basic modeling |
+| **MySQL / SQL**      | Database design, conceptual & logical modeling, complex querying, key creation, data extraction |
+| **Git / Git LFS**    | Version control, collaborative workflow, repository management, handling large files |
+| **Excel / Office Suite** | Advanced data analysis, pivot tables, dashboards, reporting, automation with formulas |
+| **Data Workflow**    | End-to-end data handling: acquisition, cleaning, exploration, modeling, and reporting |
 
 ---
 
@@ -35,11 +36,10 @@
 
 ## 🎯 Career Goal
 
-I'm currently seeking a **Data Science internship** where I can:
-- Apply my technical and analytical skills
-- Gain hands-on experience
-- Contribute to impactful projects in tech and healthcare
-
+I'm looking for opportunities in Data Science to:
+-Apply my technical and analytical skills to real-world challenges
+-Gain hands-on experience with data-driven projects
+-Contribute to impactful initiatives in technology and healthcare
 ---
 
 ## ✨ About the nickname  
