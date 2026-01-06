@@ -38,8 +38,8 @@
 
 I'm looking for opportunities in Data Science to:
 -Apply my technical and analytical skills to real-world challenges
+
 -Gain hands-on experience with data-driven projects
--Contribute to impactful initiatives in technology and healthcare
 ---
 
 ## ✨ About the nickname  
