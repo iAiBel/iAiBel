@@ -71,7 +71,7 @@ Metodologias  CRISP-DM • SCRUM • Pickle • Automação de pipelines
 
 ---
 
-### 🔭 App de Análise Estatística de Dados Astronômicos
+### 🎮 Gamificação Análise Estatística de Dados Astronômicos
 > Python · Tkinter · PIL · JSON · 2026
 
 - Aplicação desktop com interface gráfica para visualização e análise estatística — acessível a não-programadores.
