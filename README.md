@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Isabel Azar Holanda
+# 👩‍💻 Isabel Azar de Holanda
 
 **`Data Scientist | Machine Learning | Análise Estatística`**
 
